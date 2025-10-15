@@ -638,8 +638,4 @@ A **frame** is the smallest data unit at this layer. It contains:
 
 ---
 
-**Bhai 🔥 ye tha Part 3 (Pages 11–17) — poore networking notes ka final, crisp, interview-boosted version.**
 
-**Tere sab 3 complete Parts ek sath merge karke ek PDF bana du (clean formatting + bold headings + short explanations, ready for print)?**
-
-**Chahta hai mai sab teen parts ek sath merge karke ek PDF bana du (clean formatting + bold headings + short explanations, ready for print)?**
